@@ -1,0 +1,22 @@
+{
+   "params": {
+
+    "local_server":"True",
+    "local_uri":"mysql://root:@localhost/codingzone",
+    "prod_uri":"mysql://root:@localhost/codingzone",
+    "fb_link":"https://facebook.com/theavi7543",
+    "tw_link":"https://twitter.com/theavi", 
+    "gh_link":"https://github.com/Avinash1286",
+    "app_title":"Coding Zone",
+    "tag_line":"Coding Is Fun",
+    "web_url":"www.codingzone.com", 
+    "gmail-id":"avinashyadav1286@gmail.com",
+    "gmail-password":"theavi1286786678$$##@@",
+    "about-website":"This is amazing website developed by mr TheAvi and the avi is great person on this planet and the avi can do any thing on this planet and make something grat on this plaet and this is what we want and making something great and this is awesome and we will make one day a great empire.",
+     "no_of_post":"2",
+     "user-id":"theavi7543",
+     "user-pass":"sanchita",
+     "upload_location":"D:\\Blogging\\static\\img"
+}
+
+}
